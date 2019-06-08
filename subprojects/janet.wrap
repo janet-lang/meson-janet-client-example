@@ -1,0 +1,4 @@
+[wrap-git]
+directory = janet
+url = https://github.com/janet-lang/janet.git
+revision = head
